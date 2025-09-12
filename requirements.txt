@@ -1,0 +1,8 @@
+streamlit==1.37.1
+pandas==2.2.2
+numpy==1.26.4
+
+##PowerShell Steps:
+#Set-Location "C:\Users\christian.orarden\Desktop\CMU Coding\OPPWINPROB"
+#python -m pip install --user -r requirements.txt
+#python -m streamlit run app.py
