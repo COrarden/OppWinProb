@@ -1,3 +1,4 @@
-cd C:\Users\christian.orarden\Desktop\CMU Coding\OppWinProb
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+name,weight_modifier
+General Contracting,0.05
+Construction Services,0.02
+Roofing,-0.01
